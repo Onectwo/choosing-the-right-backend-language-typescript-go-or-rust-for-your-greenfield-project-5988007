@@ -39,5 +39,4 @@ To resolve this issue:
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/choosing-the-right-back-end-language-typescript-go-or-rust-for-your-greenfield-project/comparing-golang-vs-rust
